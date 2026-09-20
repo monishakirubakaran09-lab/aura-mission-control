@@ -2,3 +2,7 @@ venv/
 .venv/
 backend/venv/
 node_modules/
+venv/
+.venv/
+backend/venv/
+node_modules/
